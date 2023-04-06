@@ -3,6 +3,8 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+/* HEADER SECTION START HERE */
 header{
     width: 100%;
     height: 100vh;
@@ -36,6 +38,10 @@ header nav ul li a{
     border-bottom: 2.5px solid #000;
     margin: 0px 10px;
 }
+/* HEADER SECTION END HERE */
+
+
+/* BANNER SECTION START HERE */
 .banner{
     width: 100%;
     height: 80vh;
@@ -69,6 +75,9 @@ header nav ul li a{
     right: 10px;
     bottom: 5px; 
 }
+/* BANNER SECTIN END HERE */
+
+/* ABOUT SECTION START HERE */
 .about{
     width: 70%;
     height: 500px;
@@ -99,7 +108,10 @@ header nav ul li a{
     color: #000;
     font-size: 30px;
 }
+/* ABOUT SECTION END HERE */
 
+
+/* CONTACT SECTION START HERE */
 .contact{
     width: 90%;
     height: 60vh;
